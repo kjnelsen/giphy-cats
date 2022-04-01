@@ -35,4 +35,20 @@
   to {
     transform: rotate(360deg);
   }
+
+
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card {
+  padding: 40px;
+  margin-left: auto;
+  margin-right: auto;
 }
